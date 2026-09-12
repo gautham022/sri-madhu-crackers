@@ -8,7 +8,7 @@ export default function Navbar() {
   const { dark, setDark } = useTheme();
   const { lang, setLang, t } = useLang();
   const { cartCount, setCartOpen } = useCart();
-  const { user, setLoginOpen, logout } = useAuth();
+  const { user, setLoginOpen, logout, mode } = useAuth();
   const [langOpen, setLangOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const ref = useRef(null);
@@ -77,8 +77,8 @@ export default function Navbar() {
             )}
           </button>
 
-          {/* auth */}
-          {user ? (
+          {/* auth (hidden in catalog-only mode) */}
+          {mode !== "static" && (user ? (
             <div className="flex items-center gap-1.5">
               {user.role === "admin" && (
                 <Link href="/admin" className="hidden sm:block px-3 py-2 rounded-lg text-sm font-bold bg-gradient-to-r from-[#7b2cbf] to-[#e63946] text-white">
@@ -95,7 +95,7 @@ export default function Navbar() {
               className="px-4 py-2 rounded-lg text-sm font-bold text-white bg-gradient-to-r from-[#e63946] to-[#ff9e00] hover:opacity-90 active:scale-95 transition shadow-md shadow-[#e63946]/30">
               {t("login")}
             </button>
-          )}
+          ))}
 
           <button className="md:hidden p-2 rounded-lg border" style={{ borderColor: "var(--border)" }} onClick={() => setMenuOpen(!menuOpen)}>☰</button>
         </div>

@@ -8,7 +8,7 @@ const EMPTY_FORM = { id: "", name: "", category: "", price: "", image: "" };
 
 export default function Admin() {
   const { t } = useLang();
-  const { user } = useAuth();
+  const { user, mode } = useAuth();
   const toast = useToast();
   const [tab, setTab] = useState("products");
   const [products, setProducts] = useState(null);
@@ -45,6 +45,13 @@ export default function Admin() {
   };
 
   if (allowed === null) return <div className="max-w-6xl mx-auto px-4 py-10"><div className="shimmer h-40 rounded-2xl" /></div>;
+  if (mode === "static") return (
+    <div className="max-w-md mx-auto px-4 py-24 text-center">
+      <div className="text-5xl mb-4">📦</div>
+      <h2 className="font-black text-xl">{t("admin_panel")}</h2>
+      <p className="muted-text mt-2">This is a catalog-only deployment (no database connected). The admin panel activates once a database is configured.</p>
+    </div>
+  );
   if (!allowed) return (
     <div className="max-w-md mx-auto px-4 py-24 text-center">
       <div className="text-5xl mb-4">🔒</div>

@@ -7,6 +7,7 @@ export default function CartDrawer() {
   const { cart, setQty, cartOpen, setCartOpen } = useCart();
   const { t } = useLang();
   const { user, setLoginOpen } = useAuth();
+  const staticMode = useAuth().mode === "static";
   const [products, setProducts] = useState([]);
   const [checkout, setCheckout] = useState(false);
   const [form, setForm] = useState({ name: "", address: "", pincode: "", payment: "razorpay" });
@@ -153,9 +154,15 @@ export default function CartDrawer() {
                       <span>{t("total")}</span>
                       <span className="text-[#e63946] text-2xl">₹{total.toLocaleString("en-in")}</span>
                     </div>
-                    <button onClick={() => setCheckout(true)} className="w-full py-3.5 rounded-xl font-black text-white bg-gradient-to-r from-[#e63946] to-[#ff9e00] hover:opacity-90">
-                      {t("checkout")} →
-                    </button>
+                    {staticMode ? (
+                      <div className="w-full py-3.5 rounded-xl font-bold text-center border" style={{ borderColor: "var(--border)" }}>
+                        🛍️ Online ordering coming soon
+                      </div>
+                    ) : (
+                      <button onClick={() => setCheckout(true)} className="w-full py-3.5 rounded-xl font-black text-white bg-gradient-to-r from-[#e63946] to-[#ff9e00] hover:opacity-90">
+                        {t("checkout")} →
+                      </button>
+                    )}
                   </div>
                 )}
               </>

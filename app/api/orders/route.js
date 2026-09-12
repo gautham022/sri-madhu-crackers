@@ -27,7 +27,11 @@ export async function POST(req) {
     paymentMethod: payment, status: "placed", createdAt: Date.now(),
     paymentStatus: "pending",
   };
-  await db.putOrder(order);
+  try {
+    await db.putOrder(order);
+  } catch {
+    return NextResponse.json({ error: "Ordering is coming soon — this is a catalog-only deployment" }, { status: 503 });
+  }
 
   // create Razorpay order if online payment & keys configured; otherwise mock in dev
   if (payment === "razorpay" && RAZORPAY_KEY_ID && RAZORPAY_KEY_SECRET) {

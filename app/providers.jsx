@@ -75,12 +75,14 @@ export function Providers({ children }) {
 
   // auth
   const [user, setUser] = useState(null);
+  const [mode, setMode] = useState("full");
   const [loginOpen, setLoginOpen] = useState(false);
   const refreshUser = useCallback(async () => {
     try {
       const r = await fetch("/api/auth/me");
       const d = await r.json();
       setUser(d.user || null);
+      setMode(d.mode || "full");
     } catch { setUser(null); }
   }, []);
   useEffect(() => { refreshUser(); }, [refreshUser]);
@@ -102,7 +104,7 @@ export function Providers({ children }) {
     <ThemeCtx.Provider value={{ dark, setDark }}>
       <LangCtx.Provider value={{ lang, setLang, t, switching }}>
         <CartCtx.Provider value={{ cart, addToCart, setQty, cartCount, cartOpen, setCartOpen }}>
-          <AuthCtx.Provider value={{ user, refreshUser, logout, loginOpen, setLoginOpen }}>
+          <AuthCtx.Provider value={{ user, refreshUser, logout, loginOpen, setLoginOpen, mode }}>
             <ToastCtx.Provider value={toast}>
               {children}
               <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[100] flex flex-col gap-2">
