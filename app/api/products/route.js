@@ -8,8 +8,12 @@ async function requireAdmin(req) {
 }
 
 export async function GET() {
-  const products = await db.getAllProducts();
-  return NextResponse.json(products);
+  try {
+    const products = await db.getAllProducts();
+    return NextResponse.json(products);
+  } catch (e) {
+    return NextResponse.json({ error: e.name + ": " + e.message }, { status: 500 });
+  }
 }
 
 export async function POST(req) {
