@@ -1,0 +1,863 @@
+[
+ {
+  "id": "7-cm-electric-sparklers-10-pcsbox",
+  "name": "7 Cm Electric Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 50,
+  "image": "/products/sparklers/7-cm-electric-10pcsbox.png"
+ },
+ {
+  "id": "7-cm-colour-sparklers-10-pcsbox",
+  "name": "7 Cm Colour Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 60,
+  "image": "/products/sparklers/7-cm-color-10pcsbox.png"
+ },
+ {
+  "id": "10-cm-electric-sparklers-10-pcsbox",
+  "name": "10 Cm Electric Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 110,
+  "image": "/products/sparklers/10-cm-electric-10-pcsbox.png"
+ },
+ {
+  "id": "10-cm-colour-sparklers-10-pcsbox",
+  "name": "10 Cm Colour Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 150,
+  "image": "/products/sparklers/10-cm-color-10-pcsbox.png"
+ },
+ {
+  "id": "12-cm-electric-sparklers-10-pcsbox",
+  "name": "12 Cm Electric Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 170,
+  "image": "/products/sparklers/12-cm-electric-10-pcsbox.png"
+ },
+ {
+  "id": "12-cm-colour-sparklers-10-pcsbox",
+  "name": "12 Cm Colour Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 180,
+  "image": "/products/sparklers/12-cm-color-10pcs-box.png"
+ },
+ {
+  "id": "15-cm-electric-sparklers-10-pcsbox",
+  "name": "15 Cm Electric Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 270,
+  "image": "/products/sparklers/15-cm-electric-10pcsbox.png"
+ },
+ {
+  "id": "15-cm-colour-sparklers-10-pcsbox",
+  "name": "15 Cm Colour Sparklers (10 pcs/box)",
+  "category": "Sparklers",
+  "price": 300,
+  "image": "/products/sparklers/15-cm-color-10pcsbox.png"
+ },
+ {
+  "id": "30-cm-electric-sparklers-5-pcsbox",
+  "name": "30 Cm Electric Sparklers (5 pcs/box)",
+  "category": "Sparklers",
+  "price": 270,
+  "image": "/products/sparklers/30-cm-electric-5pcsbox.png"
+ },
+ {
+  "id": "30-cm-colour-sparklers-5-pcsbox",
+  "name": "30 Cm Colour Sparklers (5 pcs/box)",
+  "category": "Sparklers",
+  "price": 300,
+  "image": "/products/sparklers/30-cm-color-5pcsbox.png"
+ },
+ {
+  "id": "30-cm-green-sparklers-5-pcsbox",
+  "name": "30 Cm Green Sparklers (5 pcs/box)",
+  "category": "Sparklers",
+  "price": 350,
+  "image": "/products/sparklers/30-cm-green-5pcsbox.png"
+ },
+ {
+  "id": "55-cm-electric-sparklers-5-pcsbox",
+  "name": "55 Cm Electric Sparklers (5 pcs/box)",
+  "category": "Sparklers",
+  "price": 1600,
+  "image": "/products/sparklers/55-cm-electric-5pcsbox.png"
+ },
+ {
+  "id": "55-cm-colour-sparklers-5-pcsbox",
+  "name": "55 Cm Colour Sparklers (5 pcs/box)",
+  "category": "Sparklers",
+  "price": 1700,
+  "image": "/products/sparklers/55-cm-color-5pcsbox.png"
+ },
+ {
+  "id": "flower-pots-big-10-pcsbox",
+  "name": "Flower Pots Big (10 pcs/box)",
+  "category": "Flower Pots",
+  "price": 500,
+  "image": "/products/flower-pot/flower-pots-big-10-pcs-box.png"
+ },
+ {
+  "id": "flower-pots-special-10-pcsbox",
+  "name": "Flower Pots Special (10 pcs/box)",
+  "category": "Flower Pots",
+  "price": 650,
+  "image": "/products/flower-pot/flower-pots-special-10-pcs-box.png"
+ },
+ {
+  "id": "flower-pots-ashoks-10-pcsbox",
+  "name": "Flower Pots Ashoks (10 pcs/box)",
+  "category": "Flower Pots",
+  "price": 850,
+  "image": "/products/flower-pot/flower-pots-ashoks-10-pcs-box.png"
+ },
+ {
+  "id": "flower-pots-deluxe-5-pcsbox",
+  "name": "Flower Pots Deluxe (5 pcs/box)",
+  "category": "Flower Pots",
+  "price": 900,
+  "image": "/products/flower-pot/flower-pots-deluxe-5-pcs-box.png"
+ },
+ {
+  "id": "power-koti-5-pcsbox",
+  "name": "Power Koti (5 pcs/box)",
+  "category": "Flower Pots",
+  "price": 900,
+  "image": "/products/flower-pot/power-koti-5pcsbox.png"
+ },
+ {
+  "id": "colour-koti-10-pcsbox",
+  "name": "Colour Koti (10 pcs/box)",
+  "category": "Flower Pots",
+  "price": 1800,
+  "image": "/products/flower-pot/colour-koti-10-pcsbox.png"
+ },
+ {
+  "id": "gold-coin-fountain-5-pcsbox",
+  "name": "Gold Coin Fountain (5 pcs/box)",
+  "category": "Flower Pots",
+  "price": 1000,
+  "image": "/products/flower-pot/gold-coin-fountain-5pcsbox.png"
+ },
+ {
+  "id": "tri-colour-fountains-5-pcsbox",
+  "name": "Tri Colour Fountains (5 pcs/box)",
+  "category": "Flower Pots",
+  "price": 2200,
+  "image": "/products/flower-pot/tri-colour-fountalns-5pcsbox.png"
+ },
+ {
+  "id": "ground-chakkar-big-10-pcs",
+  "name": "Ground Chakkar Big (10 pcs)",
+  "category": "Ground Chakkers",
+  "price": 380,
+  "image": "/products/ground-chakkers/ground-chakkar-big-10-pcs.png"
+ },
+ {
+  "id": "ground-chakkar-special-10-pcs",
+  "name": "Ground Chakkar Special (10 pcs)",
+  "category": "Ground Chakkers",
+  "price": 650,
+  "image": "/products/ground-chakkers/ground-chakkar-special-10-pcs.png"
+ },
+ {
+  "id": "ground-chakkar-deluxe-10-pcs",
+  "name": "Ground Chakkar Deluxe (10 pcs)",
+  "category": "Ground Chakkers",
+  "price": 1100,
+  "image": "/products/ground-chakkers/ground-chakkar-big-10-pcs.png"
+ },
+ {
+  "id": "disco-wheel-5-pcsbox",
+  "name": "Disco Wheel (5 pcs/box)",
+  "category": "Ground Chakkers",
+  "price": 350,
+  "image": "/products/ground-chakkers/dlsco-wheel-5-pcs-box.png"
+ },
+ {
+  "id": "disco-wheel-10-pcsbox",
+  "name": "Disco Wheel (10 pcs/box)",
+  "category": "Ground Chakkers",
+  "price": 700,
+  "image": "/products/ground-chakkers/dlsco-wheel-10-pcs-box.png"
+ },
+ {
+  "id": "15-twinkling-star-10-pcsbox",
+  "name": "1.5\" Twinkling Star (10 pcs/box)",
+  "category": "Twinkling Stars",
+  "price": 160,
+  "image": "/products/twinkling/112twinkling-star-10-pcs-box.png"
+ },
+ {
+  "id": "4-twinkling-star-10-pcsbox",
+  "name": "4\" Twinkling Star (10 pcs/box)",
+  "category": "Twinkling Stars",
+  "price": 550,
+  "image": "/products/twinkling/4-twinkling-star-10-pcs-box.png"
+ },
+ {
+  "id": "photo-flash-pencil-3-pcsbox",
+  "name": "Photo Flash Pencil (3 pcs/box)",
+  "category": "Enjoy Pencil",
+  "price": 350,
+  "image": "/products/enjoy-pencil/photo-flash-pencil-3-pcsbox.png"
+ },
+ {
+  "id": "ultra-candie-3-pcsbox",
+  "name": "Ultra Candie (3 pcs/box)",
+  "category": "Enjoy Pencil",
+  "price": 650,
+  "image": "/products/enjoy-pencil/ultra-candie-3pcsbox.png"
+ },
+ {
+  "id": "magic-feather-3-pcsbox",
+  "name": "Magic Feather (3 pcs/box)",
+  "category": "Enjoy Pencil",
+  "price": 650,
+  "image": "/products/enjoy-pencil/magic-feather-3pcsbox.png"
+ },
+ {
+  "id": "275-kuruvi-vedi-5-pcspkt",
+  "name": "2.75\" Kuruvi Vedi (5 pcs/pkt)",
+  "category": "One Sound Crackers",
+  "price": 60,
+  "image": "/products/one-sound-creacker/2-3q-kuruvi-vedi-brand-5-pcspkt.png"
+ },
+ {
+  "id": "4-lakshmi-vedi-5-pcspkt",
+  "name": "4\" Lakshmi Vedi (5 pcs/pkt)",
+  "category": "One Sound Crackers",
+  "price": 180,
+  "image": "/products/one-sound-creacker/4-laxmi-vedi-5-pcspkt.png"
+ },
+ {
+  "id": "6-jalli-kattu-5-pcspkt",
+  "name": "6\" Jalli Kattu (5 pcs/pkt)",
+  "category": "One Sound Crackers",
+  "price": 350,
+  "image": "/products/one-sound-creacker/6-jalli-kattu-5pcspkt.png"
+ },
+ {
+  "id": "red-bijili-100-pcsbag",
+  "name": "Red Bijili (100 pcs/bag)",
+  "category": "Baby Variety Items",
+  "price": 170,
+  "image": "/products/red-bijili-100pcsbog.png"
+ },
+ {
+  "id": "bomb-rocket-10-pcsbox",
+  "name": "Bomb Rocket (10 pcs/box)",
+  "category": "Rockets",
+  "price": 650,
+  "image": "/products/rocket/bomb-rocket-10pcsbox.png"
+ },
+ {
+  "id": "lunik-rocket-10-pcsbox",
+  "name": "Lunik Rocket (10 pcs/box)",
+  "category": "Rockets",
+  "price": 1300,
+  "image": "/products/rocket/lunik-rocket-10pcsbox.png"
+ },
+ {
+  "id": "whistling-rocket-10-pcsbox",
+  "name": "Whistling Rocket (10 pcs/box)",
+  "category": "Rockets",
+  "price": 1800,
+  "image": "/products/rocket/whistling-rocket-10pcsbox.png"
+ },
+ {
+  "id": "hydro-bomb-10-pcsbox",
+  "name": "Hydro Bomb (10 pcs/box)",
+  "category": "Bombs",
+  "price": 800,
+  "image": "/products/bomb/hydro-bomb-10pcsbox.png"
+ },
+ {
+  "id": "king-of-king-bomb-10-pcsbox",
+  "name": "King of King Bomb (10 pcs/box)",
+  "category": "Bombs",
+  "price": 1000,
+  "image": "/products/bomb/king-of-king-bomb-10pcsbox.png"
+ },
+ {
+  "id": "classic-bomb-10-pcsbox",
+  "name": "Classic Bomb (10 pcs/box)",
+  "category": "Bombs",
+  "price": 1100,
+  "image": "/products/bomb/classic-bomb-10pcsbox.png"
+ },
+ {
+  "id": "555-bomb-10-pcsbox",
+  "name": "555 Bomb (10 pcs/box)",
+  "category": "Bombs",
+  "price": 1300,
+  "image": "/products/bomb/555-bomb-10pcsbox.png"
+ },
+ {
+  "id": "28-giant-crackers-1-pcpkt",
+  "name": "28 Giant Crackers (1 pc/pkt)",
+  "category": "Giant Crackers",
+  "price": 160,
+  "image": "/products/giant-crackers/28-giant-crackers-1pcspkt.png"
+ },
+ {
+  "id": "56-giant-crackers-1-pcpkt",
+  "name": "56 Giant Crackers (1 pc/pkt)",
+  "category": "Giant Crackers",
+  "price": 320,
+  "image": "/products/giant-crackers/56-giant-crackers-1pcspkt.png"
+ },
+ {
+  "id": "24-deluxe-crackers-1-pcpkt",
+  "name": "24 Deluxe Crackers (1 pc/pkt)",
+  "category": "Giant Crackers",
+  "price": 480,
+  "image": "/products/giant-crackers/24-deluxe-crackers-1pcspkt.png"
+ },
+ {
+  "id": "1000-wala-garland-classic",
+  "name": "1000 Wala Garland (Classic)",
+  "category": "Garlands (Classic)",
+  "price": 1400,
+  "image": "/products/garlands-classic/1000-wala-classic.png"
+ },
+ {
+  "id": "2000-wala-garland-classic",
+  "name": "2000 Wala Garland (Classic)",
+  "category": "Garlands (Classic)",
+  "price": 2500,
+  "image": "/products/garlands-classic/2000-wala-classic.png"
+ },
+ {
+  "id": "100-wala-garland-prime",
+  "name": "100 Wala Garland (Prime)",
+  "category": "Garlands (Prime)",
+  "price": 350,
+  "image": "/products/garlands-prime/100-wala-prime.png"
+ },
+ {
+  "id": "200-wala-garland-prime",
+  "name": "200 Wala Garland (Prime)",
+  "category": "Garlands (Prime)",
+  "price": 700,
+  "image": "/products/garlands-prime/200-wala-prime.png"
+ },
+ {
+  "id": "1000-wala-garland-prime",
+  "name": "1000 Wala Garland (Prime)",
+  "category": "Garlands (Prime)",
+  "price": 1700,
+  "image": "/products/garlands-prime/1000-wala-prime.png"
+ },
+ {
+  "id": "2000-wala-garland-prime",
+  "name": "2000 Wala Garland (Prime)",
+  "category": "Garlands (Prime)",
+  "price": 3300,
+  "image": "/products/garlands-prime/2000-walaprime.png"
+ },
+ {
+  "id": "5000-wala-garland-prime",
+  "name": "5000 Wala Garland (Prime)",
+  "category": "Garlands (Prime)",
+  "price": 8000,
+  "image": "/products/garlands-prime/5000-walaprime.png"
+ },
+ {
+  "id": "10000-wala-garland-prime",
+  "name": "10000 Wala Garland (Prime)",
+  "category": "Garlands (Prime)",
+  "price": 14000,
+  "image": "/products/garlands-prime/10000-walaprime.png"
+ },
+ {
+  "id": "4-beer-blue-fountain-tin-1-pc",
+  "name": "4\" Beer Blue Fountain Tin (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 700,
+  "image": "/products/baby-variety-items/4beer-blue-fountain-tin-1pcs.png"
+ },
+ {
+  "id": "4-beer-green-fountain-tin-1-pc",
+  "name": "4\" Beer Green Fountain Tin (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 700,
+  "image": "/products/baby-variety-items/4beer-green-fountain-tin-1pcs.png"
+ },
+ {
+  "id": "4-beer-red-fountain-tin-1-pc",
+  "name": "4\" Beer Red Fountain Tin (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 700,
+  "image": "/products/baby-variety-items/4-beer-red-fountain-tin-1-pcs.png"
+ },
+ {
+  "id": "45-amazing-falls-tin-1-pc",
+  "name": "4.5\" Amazing Falls Tin (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/41-2-amazing-falls-tin-1pcs.png"
+ },
+ {
+  "id": "45-miracle-fountain-tin-1-pc",
+  "name": "4.5\" Miracle Fountain Tin (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/41-2-miracle-fountain-tin-1pcs.png"
+ },
+ {
+  "id": "6-happy-happy-fountain-tin",
+  "name": "6\" Happy Happy Fountain Tin",
+  "category": "Baby Variety Items",
+  "price": 900,
+  "image": "/products/baby-variety-items/6-happy-happy-fountain-tin.png"
+ },
+ {
+  "id": "6-popcorn-fountain-tin-1-pc",
+  "name": "6\" Popcorn Fountain Tin (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 900,
+  "image": "/products/baby-variety-items/6-popcorn-fountain-tin-1pcs.png"
+ },
+ {
+  "id": "4x4-wheel-5-pcsbox",
+  "name": "4X4 Wheel (5 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 1400,
+  "image": "/products/baby-variety-items/4x4-wheel.png"
+ },
+ {
+  "id": "peacock-fountain-1-pc",
+  "name": "Peacock Fountain (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 1400,
+  "image": "/products/baby-variety-items/peacock-fountain-1pcs.png"
+ },
+ {
+  "id": "black-money-1-pcbox",
+  "name": "Black Money (1 pc/box)",
+  "category": "Baby Variety Items",
+  "price": 250,
+  "image": "/products/baby-variety-items/black-money-1pcsbox.png"
+ },
+ {
+  "id": "chocolate-water-queen-1-pc",
+  "name": "Chocolate Water Queen (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 250,
+  "image": "/products/baby-variety-items/chocolate-water-queen-1pcs.png"
+ },
+ {
+  "id": "velum-mayilum-1-pc",
+  "name": "Velum Mayilum (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 700,
+  "image": "/products/baby-variety-items/velum-mayilum-1-pcs.png"
+ },
+ {
+  "id": "cricket-bat-1-pc",
+  "name": "Cricket Bat (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 700,
+  "image": "/products/baby-variety-items/cricket-bat-1pcs.png"
+ },
+ {
+  "id": "butterfly-colour-chakri-10-pcsbox",
+  "name": "Butterfly Colour Chakri (10 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/butterfly-color-chnsi-10pcsbos.png"
+ },
+ {
+  "id": "drone-5-pcsbox",
+  "name": "Drone (5 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/drone-5pcsbox.png"
+ },
+ {
+  "id": "helicopter-5-pcsbox",
+  "name": "Helicopter (5 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/helicopter-5pcsbox.png"
+ },
+ {
+  "id": "corona-1-pc",
+  "name": "Corona (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/corona-1pcs.png"
+ },
+ {
+  "id": "5g-net-work-1-pc",
+  "name": "5G Net Work (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/5g-net-work-1pcs.png"
+ },
+ {
+  "id": "peacock-3-colour-1-pcbox",
+  "name": "Peacock 3 Colour (1 pc/box)",
+  "category": "Baby Variety Items",
+  "price": 1500,
+  "image": "/products/baby-variety-items/peacock-3-colour.png"
+ },
+ {
+  "id": "photo-flash-5-pcsbox",
+  "name": "Photo Flash (5 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 350,
+  "image": "/products/baby-variety-items/photo-flash-5pcsbox.png"
+ },
+ {
+  "id": "water-queen-1-pctin",
+  "name": "Water Queen (1 pc/tin)",
+  "category": "Baby Variety Items",
+  "price": 800,
+  "image": "/products/baby-variety-items/chocolate-water-queen-1pcs.png"
+ },
+ {
+  "id": "magic-show-1-pc",
+  "name": "Magic Show (1 pc)",
+  "category": "Baby Variety Items",
+  "price": 1000,
+  "image": "/products/magic-show-1pcs.png"
+ },
+ {
+  "id": "colour-smoke-3-pcsbox",
+  "name": "Colour Smoke (3 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 1000,
+  "image": "/products/baby-variety-items/colour-smoke-3pcsbox.png"
+ },
+ {
+  "id": "lollipop-crackers-5-pcsbox",
+  "name": "Lollipop Crackers (5 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 1500,
+  "image": "/products/baby-variety-items/lollipop-crackers-5pcsbox.png"
+ },
+ {
+  "id": "mega-siren-3-pcsbox",
+  "name": "Mega Siren (3 pcs/box)",
+  "category": "Baby Variety Items",
+  "price": 1900,
+  "image": "/products/baby-variety-items/mega-siren-3pesbox.png"
+ },
+ {
+  "id": "12-shot-colour-rider-1-pc",
+  "name": "12 Shot Colour Rider (1 pc)",
+  "category": "Colour Rider Shots",
+  "price": 1200,
+  "image": "/products/colour-rider-shots/12-shot-color-rider-1pcs.png"
+ },
+ {
+  "id": "25-shot-colour-rider-1-pc",
+  "name": "25 Shot Colour Rider (1 pc)",
+  "category": "Colour Rider Shots",
+  "price": 2800,
+  "image": "/products/colour-rider-shots/25-shot-color-rider-1pcs.png"
+ },
+ {
+  "id": "50-shot-colour-rider-1-pc",
+  "name": "50 Shot Colour Rider (1 pc)",
+  "category": "Colour Rider Shots",
+  "price": 5500,
+  "image": "/products/colour-rider-shots/50-shot-color-rider-1pcs.png"
+ },
+ {
+  "id": "30-shot-multi-colour",
+  "name": "30 Shot Multi Colour",
+  "category": "Multi Colour Shots",
+  "price": 2800,
+  "image": "/products/multi-colour-shot/30-shot-multi-color-2.png"
+ },
+ {
+  "id": "60-shot-multi-colour",
+  "name": "60 Shot Multi Colour",
+  "category": "Multi Colour Shots",
+  "price": 5600,
+  "image": "/products/multi-colour-shot/60-shot-multi-color-brand.png"
+ },
+ {
+  "id": "120-shot-multi-colour",
+  "name": "120 Shot Multi Colour",
+  "category": "Multi Colour Shots",
+  "price": 11000,
+  "image": "/products/multi-colour-shot/120-shot-multi-color-brand.png"
+ },
+ {
+  "id": "30-shot-multi-colour-offer",
+  "name": "30 Shot Multi Colour (Offer)",
+  "category": "Multi Colour Shots",
+  "price": 4000,
+  "image": "/products/multi-colour-shot/30-shot-multi-color-2.png"
+ },
+ {
+  "id": "60-shot-multi-colour-brand",
+  "name": "60 Shot Multi Colour (Brand)",
+  "category": "Multi Colour Shots",
+  "price": 8000,
+  "image": "/products/multi-colour-shot/60-shot-multi-color-brand.png"
+ },
+ {
+  "id": "120-shot-multi-colour-brand",
+  "name": "120 Shot Multi Colour (Brand)",
+  "category": "Multi Colour Shots",
+  "price": 16000,
+  "image": "/products/multi-colour-shot/120-shot-multi-color-brand.png"
+ },
+ {
+  "id": "sky-shot-1-pc",
+  "name": "Sky Shot (1 pc)",
+  "category": "Mini Aerial Fancy",
+  "price": 100,
+  "image": "/products/mini-aerial-shot/sky-shot-1-pcs.png"
+ },
+ {
+  "id": "7-shot-colour-5-pcsbox",
+  "name": "7 Shot Colour (5 pcs/box)",
+  "category": "Mini Aerial Fancy",
+  "price": 1400,
+  "image": "/products/mini-aerial-shot/7-shot-color-5pcsbox.png"
+ },
+ {
+  "id": "nemo-shot-5-pcsbox",
+  "name": "Nemo Shot (5 pcs/box)",
+  "category": "Mini Aerial Fancy",
+  "price": 850,
+  "image": "/products/mini-aerial-shot/nemo-shat-5pcsbox.png"
+ },
+ {
+  "id": "sky-king-5-pcsbox",
+  "name": "Sky King (5 pcs/box)",
+  "category": "Mini Aerial Fancy",
+  "price": 850,
+  "image": "/products/mini-aerial-shot/sky-king-5-pcsbox.png"
+ },
+ {
+  "id": "2-aerial-fancy-1-pc",
+  "name": "2\" Aerial Fancy (1 pc)",
+  "category": "Mega Display",
+  "price": 700,
+  "image": "/products/mega-display/2-aerial-fancy-1pcs.png"
+ },
+ {
+  "id": "2-aerial-fancy-green-1-pc",
+  "name": "2\" Aerial Fancy Green (1 pc)",
+  "category": "Mega Display",
+  "price": 700,
+  "image": "/products/mega-display/2-aerial-fancy-1pcs.png"
+ },
+ {
+  "id": "2-aerial-fancy-red-1-pc",
+  "name": "2\" Aerial Fancy Red (1 pc)",
+  "category": "Mega Display",
+  "price": 700,
+  "image": "/products/mega-display/2-aerial-fancy-1pcs.png"
+ },
+ {
+  "id": "2-aerial-fancy-white-1-pc",
+  "name": "2\" Aerial Fancy White (1 pc)",
+  "category": "Mega Display",
+  "price": 700,
+  "image": "/products/mega-display/2-aerial-fancy-1pcs.png"
+ },
+ {
+  "id": "2-aerial-fancy-3-pcs",
+  "name": "2\" Aerial Fancy (3 pcs)",
+  "category": "Mega Display",
+  "price": 2300,
+  "image": "/products/mega-display/2-aerial-fancy-1pcs.png"
+ },
+ {
+  "id": "35-fancy-6-designs-1-pc",
+  "name": "3.5\" Fancy - 6 Designs (1 pc)",
+  "category": "Mega Display",
+  "price": 2000,
+  "image": "/products/mega-display/5-fancy-6-design-available-1pcs.png"
+ },
+ {
+  "id": "4-fancy-6-designs-1-pc",
+  "name": "4\" Fancy - 6 Designs (1 pc)",
+  "category": "Mega Display",
+  "price": 2500,
+  "image": "/products/mega-display/4-fancy-6-design-available-1pcs.png"
+ },
+ {
+  "id": "5-fancy-6-designs-1-pc",
+  "name": "5\" Fancy - 6 Designs (1 pc)",
+  "category": "Mega Display",
+  "price": 3000,
+  "image": "/products/mega-display/5-fancy-6-design-available-1pcs.png"
+ },
+ {
+  "id": "tom-jerry-gold-1-pcbox",
+  "name": "Tom Jerry Gold (1 pc/box)",
+  "category": "2.25\" Colour Fountains",
+  "price": 150,
+  "image": "/products/2-q-color-fountain/tom-jerry-gold-1-pcsbox.png"
+ },
+ {
+  "id": "tom-jerry-green-1-pcbox",
+  "name": "Tom Jerry Green (1 pc/box)",
+  "category": "2.25\" Colour Fountains",
+  "price": 150,
+  "image": "/products/2-q-color-fountain/tom-jerry-green-1-pcsbox.png"
+ },
+ {
+  "id": "tom-jerry-red-1-pcbox",
+  "name": "Tom Jerry Red (1 pc/box)",
+  "category": "2.25\" Colour Fountains",
+  "price": 150,
+  "image": "/products/2-q-color-fountain/tom-jerry-red-1-pcsbox.png"
+ },
+ {
+  "id": "tom-jerry-silver-1-pcbox",
+  "name": "Tom Jerry Silver (1 pc/box)",
+  "category": "2.25\" Colour Fountains",
+  "price": 150,
+  "image": "/products/2-q-color-fountain/tom-jerry-silver-1-pcsbox.png"
+ },
+ {
+  "id": "oreo-gold-5-pcsbox",
+  "name": "Oreo Gold (5 pcs/box)",
+  "category": "1.75\" Colour Fountains",
+  "price": 750,
+  "image": "/products/1-3q-color-fountain/oreo-gold-5pcsbox.png"
+ },
+ {
+  "id": "oreo-green-5-pcsbox",
+  "name": "Oreo Green (5 pcs/box)",
+  "category": "1.75\" Colour Fountains",
+  "price": 750,
+  "image": "/products/1-3q-color-fountain/oreo-green-5pcsbox.png"
+ },
+ {
+  "id": "oreo-red-5-pcsbox",
+  "name": "Oreo Red (5 pcs/box)",
+  "category": "1.75\" Colour Fountains",
+  "price": 750,
+  "image": "/products/1-3q-color-fountain/oreo-red-5pcsbox.png"
+ },
+ {
+  "id": "oreo-red-green-5-pcsbox",
+  "name": "Oreo Red & Green (5 pcs/box)",
+  "category": "1.75\" Colour Fountains",
+  "price": 750,
+  "image": "/products/1-3q-color-fountain/oreo-red-green-5pcsbox.png"
+ },
+ {
+  "id": "oreo-silver-5-pcsbox",
+  "name": "Oreo Silver (5 pcs/box)",
+  "category": "1.75\" Colour Fountains",
+  "price": 750,
+  "image": "/products/1-3q-color-fountain/oreo-silver-5pcsbox.png"
+ },
+ {
+  "id": "3d-3-in-1-3-pcsbox",
+  "name": "3D 3-in-1 (3 pcs/box)",
+  "category": "Matches",
+  "price": 350,
+  "image": "/products/matches/3d-3in1-3pcsbos.png"
+ },
+ {
+  "id": "dora-matches-3-pcsbox",
+  "name": "Dora Matches (3 pcs/box)",
+  "category": "Matches",
+  "price": 700,
+  "image": "/products/matches/dora-matches-3pcsbox.png"
+ },
+ {
+  "id": "mega-size-laptop-10-pcsbox",
+  "name": "Mega Size Laptop (10 pcs/box)",
+  "category": "Matches",
+  "price": 1400,
+  "image": "/products/matches/megha-size-loptop-10pcsbox.png"
+ },
+ {
+  "id": "roll-cap-100-pcsbox",
+  "name": "Roll Cap (100 pcs/box)",
+  "category": "Guns & Roll Caps",
+  "price": 900,
+  "image": "/products/gun-roll-cap/roll-cap-100pcsbox.png"
+ },
+ {
+  "id": "gun-special-1-pc",
+  "name": "Gun Special (1 pc)",
+  "category": "Guns & Roll Caps",
+  "price": 350,
+  "image": "/products/gun-roll-cap/gun-special-1pcs.png"
+ },
+ {
+  "id": "gun-deluxe-1-pc",
+  "name": "Gun Deluxe (1 pc)",
+  "category": "Guns & Roll Caps",
+  "price": 1200,
+  "image": "/products/gun-roll-cap/gun-deluxe-1pcs.png"
+ },
+ {
+  "id": "gun-super-deluxe-1-pc",
+  "name": "Gun Super Deluxe (1 pc)",
+  "category": "Guns & Roll Caps",
+  "price": 2000,
+  "image": "/products/gun-roll-cap/gun-super-deluxe-1pcs.png"
+ },
+ {
+  "id": "adiyal-paper-bomb-small",
+  "name": "Adiyal Paper Bomb (Small)",
+  "category": "Adiyal Paper Bombs",
+  "price": 380,
+  "image": "/products/adiyal-paper-bomb/adiyal-paper-bomb-small.png"
+ },
+ {
+  "id": "adiyal-paper-bomb-12-kg",
+  "name": "Adiyal Paper Bomb (1/2 kg)",
+  "category": "Adiyal Paper Bombs",
+  "price": 750,
+  "image": "/products/adiyal-paper-bomb/adiyal-paper-bomb-halfkg.png"
+ },
+ {
+  "id": "adiyal-paper-bomb-1-kg",
+  "name": "Adiyal Paper Bomb (1 kg)",
+  "category": "Adiyal Paper Bombs",
+  "price": 1450,
+  "image": "/products/adiyal-paper-bomb/adiyal-paper-bomb-1kg.png"
+ },
+ {
+  "id": "25-items-gift-box",
+  "name": "25 Items Gift Box",
+  "category": "Gift Boxes",
+  "price": null,
+  "image": "/products/gift-box/25-items-gift-box.png"
+ },
+ {
+  "id": "35-items-gift-box",
+  "name": "35 Items Gift Box",
+  "category": "Gift Boxes",
+  "price": null,
+  "image": "/products/gift-box/35-items-gift-box.png"
+ },
+ {
+  "id": "50-items-gift-box",
+  "name": "50 Items Gift Box",
+  "category": "Gift Boxes",
+  "price": null,
+  "image": "/products/gift-box/50-items-gift-box.png"
+ },
+ {
+  "id": "60-items-gift-box",
+  "name": "60 Items Gift Box",
+  "category": "Gift Boxes",
+  "price": null,
+  "image": "/products/gift-box/60-items-gift-box.png"
+ },
+ {
+  "id": "70-items-gift-box",
+  "name": "70 Items Gift Box",
+  "category": "Gift Boxes",
+  "price": null,
+  "image": "/products/gift-box/70-items-gift-box.png"
+ }
+]
