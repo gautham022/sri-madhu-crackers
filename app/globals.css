@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #e63946;
+  --color-brand-dark: #c1121f;
+  --color-gold: #ffd166;
+  --color-fest: #7b2cbf;
+  --font-display: "Segoe UI", system-ui, sans-serif;
+}
+
+:root {
+  --bg: #fff8f0;
+  --bg2: #ffffff;
+  --fg: #1a1a2e;
+  --muted: #6b7280;
+  --border: #f1e4d4;
+  --card: #ffffff;
+}
+.dark {
+  --bg: #0d0a1a;
+  --bg2: #16112b;
+  --fg: #f4f1ff;
+  --muted: #a5a0c0;
+  --border: #2c2450;
+  --card: #16112b;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-display);
+  transition: background-color .45s ease, color .45s ease;
+}
+.card-surface { background: var(--card); border-color: var(--border); }
+.muted-text { color: var(--muted); }
+
+/* smooth language switch fade */
+.lang-switching, .lang-switching * {
+  transition: opacity .22s ease !important;
+}
+.lang-fade-out { opacity: 0; }
+.lang-fade-in { animation: langIn .3s ease; }
+@keyframes langIn { from { opacity: 0; transform: translateY(4px);} to { opacity: 1; transform: none;} }
+
+/* animated gradient text */
+.grad-text {
+  background: linear-gradient(90deg, #e63946, #ff9e00, #ffd166, #e63946);
+  background-size: 300% 100%;
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+  animation: gradSlide 5s linear infinite;
+}
+@keyframes gradSlide { to { background-position: 300% 0; } }
+
+/* sparkle hover on product cards */
+.p-card { transition: transform .25s ease, box-shadow .25s ease; }
+.p-card:hover { transform: translateY(-6px) scale(1.02); box-shadow: 0 18px 40px -12px rgba(230,57,70,.45); }
+
+/* fireworks canvas */
+#fw-canvas { position: absolute; inset: 0; pointer-events: none; }
+
+/* shimmer skeleton */
+.shimmer { background: linear-gradient(100deg, var(--card) 40%, var(--border) 50%, var(--card) 60%); background-size: 200% 100%; animation: shimmer 1.4s infinite; }
+@keyframes shimmer { to { background-position: -200% 0; } }
+
+/* toast */
+.toast { animation: toastIn .3s ease; }
+@keyframes toastIn { from { opacity: 0; transform: translateY(14px);} to { opacity: 1; transform: none;} }
+
+/* fire line divider */
+.fire-divider {
+  height: 3px; border-radius: 99px;
+  background: linear-gradient(90deg, transparent, #e63946, #ffd166, #7b2cbf, transparent);
+  background-size: 200% 100%; animation: gradSlide 4s linear infinite;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 8px; }
