@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+
+# env & secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# runtime dev database (users, orders, otp codes)
+data/local/
+
+# raw source material (site uses public/products copies)
+photo/
+categories_and_products.pdf
+
+# misc
+.DS_Store
+*.log
